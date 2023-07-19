@@ -102,7 +102,7 @@
       <template #header>
         <h5 class="mb-0">Inventory Config</h5>
       </template>
-      <p>Inventory OpCode: 0</p>
+      <p>Inventory OpCode: 2</p>
     </b-card>
   </div>
 </template>
